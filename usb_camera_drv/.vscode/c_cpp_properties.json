@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/book/100ask_stm32mp157_pro-sdk/Linux-5.4/arch/arm/include",
+                "/home/book/100ask_stm32mp157_pro-sdk/Linux-5.4/include",
+                "/home/book/100ask_stm32mp157_pro-sdk/Linux-5.4/arch/arm/include/generated",
+                "/home/book/100ask_stm32mp157_pro-sdk/Linux-5.4/include/uapi",
+                "/home/book/100ask_stm32mp157_pro-sdk/Linux-5.4/include/linux"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
